@@ -5,7 +5,6 @@ If we ever meet and you think my projects are worth it, just tell me what's up w
 ## Social
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Queecy1337)
 - [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/Queecy)
-- [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/mrqueecy)
 
 ## Languages
 - ![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white)
